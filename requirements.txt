@@ -1,0 +1,6 @@
+torch
+torchvision
+numpy
+pathlib2
+tqdm
+Pillow

@@ -3,9 +3,9 @@
 # Content
 1. We have added the code for SOTA implementation of DDPM in the notebook- ddpm.ipynb
 2. We have added the code for SOTA implementation of DDIM in the notebook- ddim.ipynb
-3. We have added the code for our proposed hybrid approach using diffusion models+GAN \\
-   a. Using ddpm + a pre-trained GAN on mnist\\
-   b. We first trained our own GAN on mnist dataset and then used it after ddpm for generation.\\
+3. We have added the code for our proposed hybrid approach using diffusion models+GAN \\\
+   a. Using ddpm + a pre-trained GAN on mnist\\\
+   b. We first trained our own GAN on mnist dataset and then used it after ddpm for generation.
 4. You can find more details about our approach in the report and presentation slide deck.
 
 

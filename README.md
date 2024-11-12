@@ -9,7 +9,7 @@
 4. You can find more details about our approach in the report and presentation slide deck.
 
 
-# Dataset links
+# Datasets and Pre-trained Model Weights
 - Dataset used for SOTA Implementation of DDPM in the notebook ddpm.ipynb -> mnist : https://www.kaggle.com/datasets/mauryakshitij/ddpm-mnist
 - Dataset used for SOTA Implementation of DDIM in the notebook ddim.ipynb -> cifar10 : https://pytorch.org/vision/main/generated/torchvision.datasets.CIFAR10.html
 - Pretrained GAN generator model weights: https://www.kaggle.com/models/mauryakshitij/mnist_gen
